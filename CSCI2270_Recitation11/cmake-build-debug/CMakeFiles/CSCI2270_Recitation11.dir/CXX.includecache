@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aanvi/CLionProjects/CSCI2270_Recitation11/Graph.cpp
+iostream
+-
+Graph.hpp
+/Users/aanvi/CLionProjects/CSCI2270_Recitation11/Graph.hpp
+
+/Users/aanvi/CLionProjects/CSCI2270_Recitation11/Graph.hpp
+iostream
+-
+vector
+-
+

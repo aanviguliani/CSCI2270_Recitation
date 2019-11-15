@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aanvi/CLionProjects/CSCI2270_Recitation7/driver.cpp
+iostream
+-
+tree.hpp
+/Users/aanvi/CLionProjects/CSCI2270_Recitation7/tree.hpp
+
+/Users/aanvi/CLionProjects/CSCI2270_Recitation7/tree.hpp
+iostream
+-
+

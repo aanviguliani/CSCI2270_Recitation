@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aanvi/CLionProjects/CSCI2270_Recitation10/MinHeap.cpp
+MinHeap.hpp
+/Users/aanvi/CLionProjects/CSCI2270_Recitation10/MinHeap.hpp
+limits.h
+-
+
+/Users/aanvi/CLionProjects/CSCI2270_Recitation10/MinHeap.hpp
+iostream
+-
+

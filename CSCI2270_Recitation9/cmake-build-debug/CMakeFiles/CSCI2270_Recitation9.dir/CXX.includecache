@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aanvi/CLionProjects/CSCI2270_Recitation9/driver.cpp
+iostream
+-
+hash.hpp
+/Users/aanvi/CLionProjects/CSCI2270_Recitation9/hash.hpp
+
+/Users/aanvi/CLionProjects/CSCI2270_Recitation9/hash.hpp
+string
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aanvi/CLionProjects/Recitation8/BST.hpp
+
+/Users/aanvi/CLionProjects/Recitation8/driver.cpp
+iostream
+-
+BST.hpp
+/Users/aanvi/CLionProjects/Recitation8/BST.hpp
+
